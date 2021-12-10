@@ -1,0 +1,1 @@
+let name = "this is a javascript file for commit 3";
